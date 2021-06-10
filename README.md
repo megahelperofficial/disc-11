@@ -40,7 +40,7 @@ For optional packages, you need to install build tools as stated [here](https://
 ## Heroku
 This clone project is still supports [Heroku](https://github.com/megahelperofficial/disc-11/) host because the [original project](https://github.com/megahelperofficial/disc-11/) is using this.
 
-<a href="https://github.com/megahelperofficial/disc-11/"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy/https://github.com/megahelperofficial/disc-11/"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 ## Glitch
 You can still use Glitch and keep it online in this project, no worries 😉
