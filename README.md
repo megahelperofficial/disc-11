@@ -38,7 +38,7 @@ $ npm install
 For optional packages, you need to install build tools as stated [here](https://github.com/nodejs/node-gyp#installation) and you also need to install [Git](https://git-scm.com/).
 
 ## Heroku
-This clone project is still supports [Heroku](https://heroku.com) host because the [original project](https://github.com/megahelperofficial/disc-11/) is using this.
+This clone project is still supports [Heroku](https://github.com/megahelperofficial/disc-11/) host because the [original project](https://github.com/megahelperofficial/disc-11/) is using this.
 
 <a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
